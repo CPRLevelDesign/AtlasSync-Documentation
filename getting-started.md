@@ -16,7 +16,7 @@ If the above prerequisites have not been met, please reach out to IT.
 To install AtlasSync, download `AtlasSyncSetup.exe` from the company's software portal and run the installer.
 
 ## First time setup
-After installation, find AtlasSync from the Start menu:
+After installation, find `AtlasSync` from the Start menu:
 
 1. Click `AtlasSync`
 2. In the AtlasSync interface, enter your email address and password
@@ -38,4 +38,4 @@ A red cloud icon means synchronisation has failed.
 ## Troubleshooting
 If synchronisation fails, check that you are connected to the internet and select `Sync Now` again.
 
-If the problem continues, contact the IT helpdesk and provide the [project name] and any error message displayed by AtlasSync.
+If the problem continues, contact the IT helpdesk and provide the [project] and any error message displayed by AtlasSync.
