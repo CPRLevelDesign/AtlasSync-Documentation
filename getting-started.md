@@ -1,5 +1,10 @@
 # Getting Started with AtlasSync
 
+## Before you begin
+**Important:** AtlasSync must be running for automatic synchronisation to occur.
+
+[Image required: automatic synchronisation process]
+
 ## What is AtlasSync?
 AtlasSync is a desktop application used to synchronise project files with a company's central server.
 
@@ -8,9 +13,6 @@ AtlasSync is a desktop application used to synchronise project files with a comp
 - An AtlasSync account created by IT
 
 If the above prerequisites have not been met, please reach out to IT.
-
-## Before you begin
-**Important:** AtlasSync must be running for automatic synchronisation to occur.
 
 ## Installation
 To install AtlasSync, download `AtlasSyncSetup.exe` from the company's software portal and run the installer.
@@ -25,7 +27,7 @@ After installation, find `AtlasSync` from the Start menu:
 **Important:** If two-factor authentication is enabled on your account, AtlasSync will open a browser window where you must complete the authentication process. Once authenticated, AtlasSync displays the projects available to the user.
 
 ## Using AtlasSync
-**Important:** AtlasSync automatically synchronises changes every 15 minutes while the application is running.
+**Important:** AtlasSync automatically synchronises changes every 15 minutes only while the application is running.
 
 Users can manually synchronise at any time by clicking `Sync Now`.
 
