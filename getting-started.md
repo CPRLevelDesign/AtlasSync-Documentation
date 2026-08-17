@@ -31,7 +31,7 @@ After installation, find `AtlasSync` from the Start menu:
 
 ### Manually synchronising a project
 
-1. Select the project you want to synchronise.
+1. Select the project you want to synchronise manually.
 2. Click `Sync Now`.
 
 A green cloud icon means the project is fully synchronised.
