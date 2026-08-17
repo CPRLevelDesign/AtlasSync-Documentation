@@ -20,8 +20,8 @@ To install AtlasSync, download `AtlasSyncSetup.exe` from the company's software 
 ## First time setup
 After installation, find `AtlasSync` from the Start menu:
 
-1. Click `AtlasSync`
-2. In the AtlasSync interface, enter your email address and password
+1. Click `AtlasSync`.
+2. In the AtlasSync interface, enter your email address and password.
 3. Select a [project] and click `Sync` to download the project's files.
 
 **Important:** If two-factor authentication is enabled on your account, AtlasSync will open a browser window where you must complete the authentication process. Once authenticated, AtlasSync displays the projects available to the user.
@@ -29,7 +29,10 @@ After installation, find `AtlasSync` from the Start menu:
 ## Using AtlasSync
 **Important:** AtlasSync automatically synchronises changes every 15 minutes only while the application is running.
 
-Users can manually synchronise at any time by clicking `Sync Now`.
+### Manually synchronising a project
+
+1. Select the project you want to synchronise.
+2. Click `Sync Now`.
 
 A green cloud icon means the project is fully synchronised.
 
