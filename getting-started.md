@@ -29,7 +29,10 @@ After installation, find `AtlasSync` from the Start menu:
 ## Using AtlasSync
 **Important:** AtlasSync automatically synchronises changes every 15 minutes only while the application is running.
 
-Users can manually synchronise at any time by clicking `Sync Now`.
+### Manually synchronising a project
+
+1. Select the project you want to synchronise manually.
+2. Click `Sync Now`.
 
 A green cloud icon means the project is fully synchronised.
 
